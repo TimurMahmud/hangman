@@ -27,7 +27,7 @@ To run the Hangman Game on your local machine, follow these steps:
 2. Navigate to the project directory:
    
    ```bash 
-   cd hangman-game
+   cd hangman\hangman
 
 3. Run the game:
    
